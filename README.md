@@ -20,7 +20,7 @@ I've been curious about how systems break since I was a kid — intercepting gam
 | [internal-rep](https://github.com/d-adz/internal-rep) | Checks internal reports against CSRD/NaBeG rules and flags missing, outdated or contradictory disclosures | Python, Streamlit, Docker |
 | [RefMe](https://github.com/d-adz/RefMe) | Tracks Premier League referee performance using live SportMonks API data | PHP |
 | [Password-Strength-Checker](https://github.com/d-adz/Password-Strength-Checker) | Scores password strength against common weaknesses | Python |
-| [balloond](https://github.com/d-adz/balloond) | 8-player online multiplayer game with bomb mechanics and power-ups | Lua, Roblox Studio |
+| [lightroom-rate-by-filename](https://github.com/d-adz/lightroom-rate-by-filename) | Lightroom Classic plugin that star-rates a client's picked photos from a pasted filename list | Lua, Lightroom SDK |
 
 ### Tools & languages
 Burp Suite · Python · SQL · Linux · Docker · Git · C++ · Java · PHP
